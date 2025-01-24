@@ -1,0 +1,12 @@
+#titulo{
+    text-align: center;
+    color: brown;
+    font-size: 32px;
+    font-weight: bold;
+}
+body.fondo{
+    background-color: blanchedalmond;
+}
+p.texto{
+    color: red;
+}

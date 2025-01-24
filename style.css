@@ -1,0 +1,15 @@
+#titulo{
+    text-align: center;
+    color: brown;
+    font-size: 32px;
+    font-weight: bolder;
+}
+div.centro{
+    text-align: center;
+}
+div.derecha{
+    text-align: end;
+}
+body.fondo{
+    background-color: blanchedalmond;
+}
